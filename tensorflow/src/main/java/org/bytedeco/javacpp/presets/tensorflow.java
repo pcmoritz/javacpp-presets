@@ -58,7 +58,7 @@ import org.bytedeco.javacpp.tools.InfoMapper;
         "tensorflow/core/public/tensor_c_api.h", "tensorflow/core/framework/op_def.pb.h", "tensorflow/core/framework/op_def_builder.h",
         "tensorflow/core/framework/op_def_util.h", "tensorflow/core/framework/op.h", "tensorflow/core/framework/types.h",
         "tensorflow/core/graph/edgeset.h", "tensorflow/core/lib/gtl/iterator_range.h", "tensorflow/core/graph/graph.h",
-        "tensorflow/core/graph/node_builder.h", "tensorflow/core/graph/graph_def_builder.h", "tensorflow/core/graph/default_device.h",
+        "tensorflow/core/graph/node_builder.h", "tensorflow/core/graph/graph_def_builder.h", "tensorflow/core/graph/default_device.h", "tensorflow/core/graph/graph_constructor.h",
         "tensorflow/cc/ops/standard_ops.h", "tensorflow/cc/ops/const_op.h", "tensorflow/cc/ops/cc_op_gen.h",
         "tensorflow/cc/ops/array_ops.h", "tensorflow/cc/ops/attention_ops.h", "tensorflow/cc/ops/const_op.h",
         "tensorflow/cc/ops/data_flow_ops.h", "tensorflow/cc/ops/image_ops.h", "tensorflow/cc/ops/io_ops.h",
