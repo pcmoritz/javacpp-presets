@@ -52,7 +52,7 @@ import org.bytedeco.javacpp.tools.InfoMapper;
         "tensorflow/core/platform/env.h", "tensorflow/core/framework/config.pb.h", "tensorflow/core/framework/versions.pb.h", "tensorflow/core/public/session_options.h",
         "tensorflow/core/lib/core/threadpool.h", "tensorflow/core/framework/allocation_description.pb.h", "tensorflow/core/framework/allocator.h",
         "tensorflow/core/framework/tensor_shape.pb.h", "tensorflow/core/framework/types.pb.h", "tensorflow/core/framework/tensor.pb.h",
-        "tensorflow/core/framework/tensor_description.pb.h", "tensorflow/core/framework/tensor_types.h", "tensorflow/core/framework/tensor_shape.h",
+        "tensorflow/core/framework/tensor_description.pb.h", "tensorflow/core/framework/step_stats.pb.h", "tensorflow/core/framework/tensor_types.h", "tensorflow/core/framework/tensor_shape.h",
         "tensorflow/core/framework/tensor.h", "tensorflow/core/framework/attr_value.pb.h", "tensorflow/core/framework/op_def.pb.h",
         "tensorflow/core/framework/function.pb.h", "tensorflow/core/framework/graph.pb.h", "tensorflow/core/public/session.h",
         "tensorflow/core/public/tensor_c_api.h", "tensorflow/core/framework/op_def.pb.h", "tensorflow/core/framework/op_def_builder.h",
