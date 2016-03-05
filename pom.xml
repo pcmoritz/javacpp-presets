@@ -38,22 +38,7 @@
 
   <modules>
     <module>opencv</module>
-    <module>ffmpeg</module>
-    <module>flycapture</module>
-    <module>libdc1394</module>
-    <module>libfreenect</module>
-    <module>videoinput</module>
-    <module>artoolkitplus</module>
-    <module>chilitags</module>
-    <module>flandmark</module>
-    <module>fftw</module>
-    <module>gsl</module>
-    <module>llvm</module>
-    <module>leptonica</module>
-    <module>tesseract</module>
     <module>caffe</module>
-    <module>cuda</module>
-    <module>mxnet</module>
     <module>tensorflow</module>
   </modules>
 
